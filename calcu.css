@@ -34,11 +34,9 @@ input{
     }
 }
     .col-3:hover{
-        transform: scale(1.08);
+        transform: scale(1.09);
     }
     .col-6:hover{
         transform: scale(1.08);
     }
-    .calc:hover{
-       box-shadow: 2px 2px 15px 1px black;
-    }
+   
